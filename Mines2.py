@@ -1,3 +1,5 @@
+"""Round 2 of Minesweeper for Decision-Making"""
+
 import random, time, copy
 
 name = input("Name: ")
