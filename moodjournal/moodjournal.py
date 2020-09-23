@@ -1,4 +1,4 @@
-"""Mood journal that allows user to log and view daily entries. Daily mood ratings and notes can be logged.
+"""Allows user to log and view daily entries. Daily mood ratings and notes can be logged.
  Future updates: Convert to a single class
  Issues: formatting of summary window"""
 
