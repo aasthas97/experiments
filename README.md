@@ -1,10 +1,11 @@
-# Minesweeper (Python 3.x)
+#### Happiness 2019
+Exploratory data analysis and an attempt at manual linear regression on the World Happiness Index Data 2019
 
-### Do not re-use without permission.
-A command-line version of minesweeper, designed for a decision-making experiment. Inspired by the [Repl.it tutorial](https://repl.it/talk/learn/How-to-program-MineSweeper-in-Python-fully-explained-in-depth-tutorial/9397).
+#### Grad Admission
+Univariate and multivariate regression. An exercise in interpreting regression models and understanding pitfalls
 
-The original Minesweeper was tweaked a little for an experimental paradigm. Divided into three parts (Mines1.py, Mines2.py, Mines3.py), each with varying amounts of information.
+#### Graph Traversal
+DFS and BFS traversal basics
 
-Please save .py and .txt files in the same folder before running the program.
-
-Upon running each program, the player is asked for their name, type of trial ('P' for practice, 'T' for test) and the trial number (1, 2, 3...).
+#### Minesweeper
+CLI version of Minesweeper developed for a Cognitive Science experiment. Followed [this tutorial](https://repl.it/talk/learn/How-to-program-MineSweeper-in-Python-fully-explained-in-depth-tutorial/9397) for the basics.
