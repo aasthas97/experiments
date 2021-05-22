@@ -12,3 +12,6 @@ DFS and BFS traversal basics
 
 ### Minesweeper
 CLI version of Minesweeper developed for a Cognitive Science experiment. Followed [this tutorial](https://repl.it/talk/learn/How-to-program-MineSweeper-in-Python-fully-explained-in-depth-tutorial/9397) for the basics.
+
+### Calculator
+Command line calculator built in Python
